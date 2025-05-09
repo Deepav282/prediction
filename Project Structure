@@ -1,0 +1,10 @@
+stock-price-prediction-ai/
+├── data/
+│   └── your_stock_data.csv
+├── src/
+│   ├── preprocess.py
+│   ├── train.py
+│   ├── predict.py
+│   └── visualize.py
+├── requirements.txt
+└── README.md
